@@ -21,4 +21,4 @@
   |개발환경|IntelliJ IDEA|
 #
 - <b>시연 영상</b> (아래 이미지 클릭 시 유튜브로 이동)  
-[![0](https://github.com/user-attachments/assets/0f7fd2f8-c3d9-4705-b44e-6764881eed33)](https://youtu.be/-eyMsl_N7UI)
+[![0](https://github.com/user-attachments/assets/82e8a4a0-3874-488f-9885-190637f1a0e1)](https://youtu.be/-eyMsl_N7UI)
